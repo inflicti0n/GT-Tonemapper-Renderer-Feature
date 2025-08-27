@@ -1,7 +1,12 @@
 # GT-ToneMapping
-**My own** unity shader implementation of [Gran Turismo Tonemapping](https://www.desmos.com/calculator/gslcdxvipg?lang=zh-CN).
+Fork of **yaoling1997*'s unity shader implementation of [Gran Turismo Tonemapping](https://www.desmos.com/calculator/gslcdxvipg?lang=zh-CN).
 
-How to use: [Click here (English)](https://github.com/Cyanilux/URP_BlitRenderFeature), or [here (Chinese)](https://www.cnblogs.com/yaoling1997/p/16029385.html)
+How to use:
+Create a material from the shader file by right clicking > Create > Material
+Add a new Renderer Feature to your URP Asset file
+Configure it :
+<img width="907" height="331" alt="image" src="https://github.com/user-attachments/assets/35e81851-6f7c-4207-9b5a-1ecebc4e497a" />
+
 
 ![Gran Turismo Tonemapping](https://s2.loli.net/2022/03/20/HlTVdCt6korRnEJ.png)
 
