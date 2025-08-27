@@ -7,9 +7,6 @@ How to use:
 3. Configure it :
 <img width="907" height="331" alt="image" src="https://github.com/user-attachments/assets/35e81851-6f7c-4207-9b5a-1ecebc4e497a" />
 
-
-![Gran Turismo Tonemapping](https://s2.loli.net/2022/03/20/HlTVdCt6korRnEJ.png)
-
 Able to fix overexposed area and make it more stylized?
 ![https://github.com/yaoling1997/GT-ToneMapping/blob/main/Comparison.png](https://github.com/yaoling1997/GT-ToneMapping/blob/main/Comparison.png)
 
