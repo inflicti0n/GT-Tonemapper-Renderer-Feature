@@ -52,7 +52,6 @@ Shader "Hidden/PostProcess/GTToneMapping"
             {
                 UNITY_SETUP_STEREO_EYE_INDEX_POST_VERTEX(input);
 
-                // Now that sampler_BlitTexture is declared, this line will compile correctly.
                 half4 col = SAMPLE_TEXTURE2D_X(_BlitTexture, sampler_BlitTexture, input.texcoord);
 
                 col.r = GranTurismoTonemapper(col.r);
@@ -65,3 +64,4 @@ Shader "Hidden/PostProcess/GTToneMapping"
         }
     }
 }
+
