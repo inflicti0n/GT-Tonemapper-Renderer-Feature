@@ -9,5 +9,5 @@ How to use:
 
 Able to fix overexposed area and make it more stylized?
 ![https://github.com/yaoling1997/GT-ToneMapping/blob/main/Comparison.png](https://github.com/yaoling1997/GT-ToneMapping/blob/main/Comparison.png)
+<img width="1280" height="716" alt="image" src="https://github.com/user-attachments/assets/79395883-f120-4d2d-83d3-65ec0c769b26" />
 
-Don't spray if you don't like it...  :)
